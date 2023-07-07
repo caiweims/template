@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/wei.cai/Desktop/Project_Zone/template/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Users\\wei.cai\\Desktop\\Project_Zone\\template\\main.cpp",
+  "file": "C:/Users/wei.cai/Desktop/Project_Zone/template/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+}
+]
